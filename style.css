@@ -1,0 +1,58 @@
+.bg
+{
+    background-image: url(https://www.skcet.ac.in/depttop.gif);
+    background-size: cover;
+    background-color: blue;
+    height: 580px;
+    width: 1210px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.cont
+{
+    background-color: greenyellow;
+    height: 25px;
+}
+
+.font
+{
+    word-spacing: 20px;
+    font-weight: bold;
+    padding: 1.5px;
+    margin-left: 10px;
+}
+.img
+{
+    background-color: skyblue;
+    height: 110px;
+    width: 600px;
+    margin-left: 250px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.lo
+{
+    background-color: black;
+    height: 200px;
+    width: 900px;
+    margin-left: 100px;
+    margin-top: 10px;
+    border-radius: 50px;
+    display: flex;
+}
+.logo
+{
+    border-radius: 150px;
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+    padding: 15px;
+}
+.font1
+{
+color: aqua;
+font-size: 30px;
+
+}
+
+
